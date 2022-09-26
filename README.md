@@ -1,4 +1,5 @@
 # Quick Overview of basic React + TS testing techniques
+Following by https://www.youtube.com/watch?v=bvdHVxqjv80&ab_channel=JackHerrington
 
 ### `yarn test`
 
